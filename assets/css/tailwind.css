@@ -1,0 +1,9 @@
+@import './prism.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#__nuxt {
+  height: 100%;
+}

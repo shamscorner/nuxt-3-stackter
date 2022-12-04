@@ -1,0 +1,9 @@
+<template>
+  <div
+    aria-hidden="true"
+    class="relative z-10 mt-4 flex items-center text-sm font-medium text-teal-500"
+  >
+    <slot></slot>
+    <IconChevronRight class="ml-1 h-4 w-4 stroke-current" />
+  </div>
+</template>
