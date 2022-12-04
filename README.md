@@ -1,5 +1,7 @@
 # Nuxt 3 Stackter
 
+![Cover Image](https://raw.githubusercontent.com/shamscorner/images/main/nuxt-3-stackter.png)
+
 A starter template built using [Tailwind CSS](https://tailwindcss.com) and [Nuxt 3](https://v3.nuxtjs.org).
 
 ## Getting started
