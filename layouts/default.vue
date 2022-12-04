@@ -9,13 +9,9 @@
     </div>
 
     <div class="relative">
-      <Header />
-
       <main>
         <slot></slot>
       </main>
-
-      <Footer />
     </div>
   </div>
 </template>
