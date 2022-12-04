@@ -8,34 +8,22 @@ export default defineNuxtConfig({
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
-      title:
-        'Spencer Sharp - Software designer, founder, and amateur astronaut',
+      title: 'Nuxt 3 starter template with TailwindCSS',
       meta: [
         {
           name: 'description',
           content:
-            "I'm Spencer, a software designer and entrepreneur based in New York City. I'm the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms.",
+            'A starter template built using Nuxt 3, TailwindCSS, VueUse, Nuxt-image, HeadlessUI, Eslint, Prettier, etc.',
         },
       ],
       script: [],
-      link: [
-        {
-          rel: 'alternate',
-          type: 'application/rss+xml',
-          href: `${process.env.NUXT_PUBLIC_SITE_URL}/rss/feed.xml`,
-        },
-        {
-          rel: 'alternate',
-          type: 'application/feed+json',
-          href: `${process.env.NUXT_PUBLIC_SITE_URL}/rss/feed.json`,
-        },
-      ],
+      link: [],
       style: [],
       htmlAttrs: {
         class: 'h-full antialiased',
       },
       bodyAttrs: {
-        class: 'flex h-full flex-col bg-zinc-50 dark:bg-black',
+        class: 'h-full',
       },
     },
   },
