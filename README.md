@@ -84,3 +84,10 @@ To learn more about the technologies used in this site template, see the followi
 - [Headless UI](https://headlessui.dev) - the official Headless UI documentation
 - [VueUse](https://vueuse.org/) - the official VueUse documentation
 - [Nuxt3 Image Module](https://v1.image.nuxtjs.org/get-started/)
+
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar). Make sure to:
+- Disable [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) for the current workspace
+- Disable built in `TypeScript and JavaScript Language Features` for the current workspace to enable take-over mode.
