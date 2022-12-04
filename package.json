@@ -1,7 +1,6 @@
 {
-  "name": "tailwindui-spotlight-nuxt",
-  "version": "0.1.0",
-  "private": true,
+  "name": "nuxt-3-stackter",
+  "version": "1.0.0",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -17,8 +16,6 @@
     "@nuxt/image-edge": "1.0.0-27827328.bc9ddc0",
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
     "@nuxtjs/tailwindcss": "^6.1.3",
-    "@tailwindcss/forms": "^0.5.3",
-    "@tailwindcss/typography": "^0.5.8",
     "@vueuse/core": "^9.6.0",
     "@vueuse/nuxt": "^9.6.0",
     "eslint": "^8.29.0",
@@ -32,9 +29,5 @@
     "prettier-plugin-tailwindcss": "^0.2.0",
     "taze": "^0.8.4",
     "typescript": "^4.9.3"
-  },
-  "dependencies": {
-    "focus-visible": "^5.2.0",
-    "postcss-focus-visible": "^7.1.0"
   }
 }
