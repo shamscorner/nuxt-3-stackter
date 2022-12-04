@@ -1,6 +1,6 @@
-# Spotlight
+# Nuxt 3 Stackter
 
-Spotlight is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Nuxt 3](https://v3.nuxtjs.org).
+A starter template built using [Tailwind CSS](https://tailwindcss.com) and [Nuxt 3](https://v3.nuxtjs.org).
 
 ## Getting started
 
@@ -15,12 +15,6 @@ npm install
 
 # pnpm
 pnpm install --shamefully-hoist
-```
-
-Next, create a `.env.local` file in the root of your project and set the `NEXT_PUBLIC_SITE_URL` variable to your site's public URL:
-
-```
-NEXT_PUBLIC_SITE_URL=https://example.com
 ```
 
 ## Development Server
@@ -81,10 +75,6 @@ You can start editing this template by modifying the files in the Nuxt recommend
 
 The site will auto-update as you edit these files.
 
-## License
-
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
-
 ## Learn more
 
 To learn more about the technologies used in this site template, see the following resources:
@@ -92,3 +82,5 @@ To learn more about the technologies used in this site template, see the followi
 - [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
 - [Nuxt 3](https://v3.nuxtjs.org) - the official Nuxt v3 documentation
 - [Headless UI](https://headlessui.dev) - the official Headless UI documentation
+- [VueUse](https://vueuse.org/) - the official VueUse documentation
+- [Nuxt3 Image Module](https://v1.image.nuxtjs.org/get-started/)
